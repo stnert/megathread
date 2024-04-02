@@ -40,34 +40,6 @@ Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem
 
 Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do denunciante de qualquer incidente.
 
-## Diretrizes de Cumprimento
-
-Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade para determinar as consequências de qualquer ação que considerem violação deste Código de Conduta:
-
-### 1. Correção
-
-**Impacto na Comunidade**: Uso de linguagem inadequada ou outro comportamento considerado profissional, ou indesejado na comunidade.
-
-**Consequência**: Um aviso por escrito privado dos líderes da comunidade, fornecendo clareza sobre a natureza da violação e uma explicação do motivo pelo qual o comportamento foi inadequado. Uma desculpa pública pode ser solicitada.
-
-### 2. Advertência
-
-**Impacto na Comunidade**: Uma violação por meio de um único incidente ou série de ações.
-
-**Consequência**: Um aviso com consequências para o comportamento continuado. Nenhuma interação com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, por um período especificado. Isso inclui evitar interações em espaços da comunidade, bem como em canais externos, como redes sociais. A violação desses termos pode levar a uma suspensão temporária ou permanente.
-
-### 3. Suspensão Temporária
-
-**Impacto na Comunidade**: Uma violação grave dos padrões da comunidade, incluindo comportamento inadequado sustentado.
-
-**Consequência**: Uma suspensão temporária de qualquer tipo de interação ou comunicação pública com a comunidade por um período especificado. Nenhuma interação pública ou privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, é permitida durante esse período. A violação desses termos pode levar a uma suspensão permanente.
-
-### 4. Suspensão Permanente
-
-**Impacto na Comunidade**: Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inadequado sustentado, assédio a um indivíduo ou agressão contra, ou depreciação de classes de indivíduos.
-
-**Consequência**: Uma suspensão permanente de qualquer tipo de interação pública dentro da comunidade.
-
 ## Atribuição
 
 Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org), versão 2.0, disponível em https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
