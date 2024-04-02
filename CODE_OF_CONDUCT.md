@@ -36,7 +36,7 @@ Este Código de Conduta se aplica a todos os espaços da comunidade e também se
 
 ## Cumprimento
 
-Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser denunciados aos líderes da comunidade responsáveis pela aplicação em [abuso@pirataria.digital](mailto:contact@pirataria.digital). Todas as reclamações serão analisadas e investigadas com prontidão e imparcialidade.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser denunciados aos líderes da comunidade responsáveis pela aplicação em [abuso@pirataria.digital](mailto:abuso@pirataria.digital). Todas as reclamações serão analisadas e investigadas com prontidão e imparcialidade.
 
 Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do denunciante de qualquer incidente.
 
